@@ -1,0 +1,1 @@
+# Sample file for main.bicep in Azure-Infrastructure-Bicep

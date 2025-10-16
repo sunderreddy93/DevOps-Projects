@@ -1,0 +1,1 @@
+# Sample file for outputs.tf in Terraform-AWS-Infrastructure

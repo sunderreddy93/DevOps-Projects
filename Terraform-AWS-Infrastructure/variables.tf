@@ -1,0 +1,1 @@
+# Sample file for variables.tf in Terraform-AWS-Infrastructure

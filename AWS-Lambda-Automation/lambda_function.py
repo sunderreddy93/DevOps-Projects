@@ -1,0 +1,1 @@
+# Sample file for lambda_function.py in AWS-Lambda-Automation

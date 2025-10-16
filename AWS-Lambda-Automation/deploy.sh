@@ -1,0 +1,1 @@
+# Sample file for deploy.sh in AWS-Lambda-Automation
